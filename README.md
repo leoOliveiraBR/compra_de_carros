@@ -1,7 +1,7 @@
 # 🚀 sejam todos bem vindo ao meu repositorio 
 
 
-## Iindice
+## indice
    - [Projeto - Loja de carros](#projeto---aprendendo-a-escrever-um-readme)  
    - [Descrição](#descris%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
